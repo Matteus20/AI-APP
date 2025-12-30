@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HealthJourney AI",
+  "description": "A personalized health and weight tracking application that uses AI to provide age-appropriate guidance, daily tasks, and motivational feedback for users of all ages.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
